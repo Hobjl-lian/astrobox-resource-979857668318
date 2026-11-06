@@ -3,10 +3,8 @@
     "id": "979857668318",
     "restype": "watchface",
     "name": "点阵",
-    "description": "时间本不需要字体。四个数字，由 5 × 8 的灯珠逐点点亮——没有衬线，没有曲线，只有亮着的点，和留在暗处的点。中线上那一颗红是全盘唯一的颜色，它沿轨道一秒一格前进，这条线就是秒针。每分钟更替时，新数字不是被刷新，而是被光覆盖：五列灯珠自左向右依次亮起，每列 60 毫秒。底部里程同样拼自灯珠，七颗小点记录今天走过的路。常亮状态下灯珠收为空心轮廓，时间依然清晰，光退到近乎不存在。",
+    "description": "时间本不需要字体。\n四个数字，由 5 × 8 的灯珠逐点点亮——没有衬线，没有曲线，只有亮着的点，和留在暗处的点。中线上那一颗红是全盘唯一的颜色，它沿轨道一秒一格前进\n每分钟更替时，新数字不是被刷新，而是被光覆盖：五列灯珠自左向右依次亮起，动效优雅",
     "preview": [
-      "media/cover.png",
-      "media/preview.png",
       "media/preview3.png",
       "media/preview4.png",
       "media/preview5.png"
@@ -40,11 +38,6 @@
     "xmb11nfc": {
       "version": "1.0.0",
       "file_name": "downloads/点阵-band10_11-v1.0.0.bin",
-      "versionCode": 65536
-    },
-    "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/点阵-band9pro_10pro-v1.0.0.bin",
       "versionCode": 65536
     },
     "xmb10p": {
