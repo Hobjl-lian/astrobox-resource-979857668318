@@ -5,6 +5,7 @@
     "name": "点阵matrix",
     "description": "时间本不需要字体。\n四个数字，由 5 × 8 的灯珠逐点点亮——没有衬线，没有曲线，只有亮着的点，和留在暗处的点。中线上那一颗红是全盘唯一的颜色，它沿轨道一秒一格前进\n每分钟更替时，新数字不是被刷新，而是被光覆盖：五列灯珠自左向右依次亮起，动效优雅",
     "preview": [
+      "media/still-1-second.png",
       "media/still-2-wipe.png",
       "media/still-3-trio.png"
     ],
